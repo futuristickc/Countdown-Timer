@@ -15,4 +15,4 @@ function countdown () {
     console.log(timer.innerText);
 }
 
-// setInterval(countdown, 1000);
+setInterval(countdown, 1000);
